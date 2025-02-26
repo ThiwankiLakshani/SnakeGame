@@ -37,12 +37,10 @@ pip install opencv-python numpy cvzone mediapipe
 - Avoid colliding with yourself to prevent game over.
 - Press 'r' to restart the game.
 
-## Demo
-(Include a GIF or video showcasing the gameplay if available)
 
 ## Author
 **Thiwanki Lakshani**
 
 ## GitHub Repository
-Find the source code on GitHub: [Your GitHub Link Here]
+Find the source code on GitHub: [https://github.com/ThiwankiLakshani/SnakeGame]
 
